@@ -1,0 +1,1 @@
+Tasks about Python - if/else, loops, functions
